@@ -14,7 +14,7 @@ THIS REPOSITORY MADE BY ARJUN__SINGH
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi-pyadav&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=I'M+ABHI-YADAV;Jay shri ram__💞;Coded+By+ABHI-YADAV" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=I'M+ABHI-YADAV;Jay shri ram__💞;Coded+By+ARJUN-RAJPUT" alt="Typing SVG" /></a>
   
 
 - 👨‍💻 All friends  my youtube channle : - [](https://youtube.com/@f9t3b9j?si=KAipS971egtFr_kP)
